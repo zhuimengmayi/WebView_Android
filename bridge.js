@@ -1,5 +1,4 @@
 //hybrid implementation
-//summarized by zhangjie.
 /* 1.js 2 native
  *		1> intercept url by shouldOverrideUrlLoading, this way must by async
  *		2> newer version(>=android 4.4), @JavascriptInterface can be async and sync
